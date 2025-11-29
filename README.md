@@ -105,100 +105,99 @@ The application follows a full MERN-style architecture with separate frontend an
     MongoDB stores all user, announcement, and event data
 
 📁 Folder Structure
-Campus-Connect/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   └── package.json
-│
-└── README.md
+
+    Campus-Connect/
+    │
+    ├── frontend/
+    │   ├── src/
+    │   ├── public/
+    │   └── package.json
+    │
+    ├── backend/
+    │   ├── controllers/
+    │   ├── models/
+    │   ├── routes/
+    │   ├── middleware/
+    │   └── package.json
+    │
+    └── README.md
 
 ⚙️ Installation
-📌 Backend Setup
-cd backend
-npm install
 
+    📌 Backend Setup
+     cd backend
+    npm install
 
 Start the backend:
 
-npm start
+    npm start
 
 🎨 Frontend Setup
-cd frontend
-npm install
-npm start
+
+    cd frontend
+    npm install
+    npm start
 
 🔧 Environment Variables
 
-Create a .env file inside backend/:
-
-PORT=5000
-MONGO_URI=your_mongo_connection_url
-JWT_SECRET=your_secret_key
-
-
-(Optional) Inside frontend/:
-
-REACT_APP_API_URL=http://localhost:5000/api
+    Create a .env file inside backend/:
+    PORT=5000
+    MONGO_URI=your_mongo_connection_url
+    JWT_SECRET=your_secret_key
+    (Optional) Inside frontend/:
+    REACT_APP_API_URL=http://localhost:5000/api
 
 📡 API Summary
-Authentication
-Method	Endpoint	Description
-POST	/api/auth/register	Register a user
-POST	/api/auth/login	Login and get JWT
-Announcements
-Method	Endpoint	Description
-GET	/api/announcements	Get all announcements
-POST	/api/announcements	Create announcement
-PUT	/api/announcements/:id	Update announcement
-DELETE	/api/announcements/:id	Delete announcement
-Users
-Method	Endpoint	Description
-GET	/api/users/me	Get logged-in user
-GET	/api/users	List all users
-🖼 Screenshots (Optional)
 
-(You can add screenshots like this)
+    Authentication
+        Method	Endpoint	Description
+        POST	/api/auth/register	Register a user
+        POST	/api/auth/login	Login and get JWT
+        
+    Announcements
+        Method	Endpoint	Description
+        GET	/api/announcements	Get all announcements
+        POST	/api/announcements	Create announcement
+        PUT	/api/announcements/:id	Update announcement
+        DELETE	/api/announcements/:id	Delete announcement
+    Users
+        Method	Endpoint	Description
+        GET	/api/users/me	Get logged-in user
+        GET	/api/users	List all users
+        
+🖼 Screenshots
+    
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+
 
 🚀 Future Enhancements
 
-📱 Mobile App Version (React Native)
+    📱 Mobile App Version (React Native)
 
-📬 Push Notifications
+    📬 Push Notifications
 
-💬 Real-time chat (Socket.io)
+    💬 Real-time chat (Socket.io)
 
-🗂 Admin Dashboard
+    🗂 Admin Dashboard
 
-🔔 Notification System
+    🔔 Notification System
 
-🤝 Contributing
+    🤝 Contributing
 
 Fork the repository
 
-Create a new branch (feature/my-feature)
+    Create a new branch (feature/my-feature)
 
-Commit and push your changes
+    Commit and push your changes
 
-Open a pull request
+    Open a pull request
 
 📜 License
 
-This project is licensed under the MIT License.
+    This project is licensed under the MIT License.
 
 📬 Contact
 
-Developer: Your Name
-GitHub: https://github.com/URK23CS1197
-
-Email: your-email@example.com
+    Developer: Niranson CDK
+    GitHub: https://github.com/URK23CS1197
+    Email: niransonk@gmail.com
