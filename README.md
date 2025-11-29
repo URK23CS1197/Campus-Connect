@@ -166,7 +166,9 @@ Start the backend:
         GET	/api/users	List all users
         
 🖼 Screenshots
-        ![Login Screen](img/Screenshot 2025-11-29 211901.png)
+    
+[img/Screenshot 2025-11-29 211901.png](https://github.com/URK23CS1197/Campus-Connect/blob/0899dfc19b36bce900aadc992e2cd98fb865751d/img/Screenshot%202025-11-29%20211901.png)
+
         
     
 
