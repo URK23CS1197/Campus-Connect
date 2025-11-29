@@ -6,6 +6,7 @@ This repository contains a full-stack application separated into frontend/ and b
 
 Table of Contents
 
+
 Project Overview
 
 Key Features
