@@ -167,11 +167,15 @@ Start the backend:
         
 🖼 Screenshots
     
-[img/Screenshot 2025-11-29 211901.png](https://github.com/URK23CS1197/Campus-Connect/blob/0899dfc19b36bce900aadc992e2cd98fb865751d/img/Screenshot%202025-11-29%20211901.png)
+![Login Screen](img/Screenshot%202025-11-29%20211901.png)
 
-        
-    
+![Admin Dashboard](img/Screenshot%202025-11-29%20212234.png)
 
+![User Dashboard](img/Screenshot%202025-11-29%20212501.png)
+
+![User Dashboard](img/Screenshot%202025-11-29%20212537.png)
+
+![Leader Board](img/Screenshot%202025-11-29%20212629.png)
 
 
 🚀 Future Enhancements
