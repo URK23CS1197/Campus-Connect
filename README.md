@@ -1,4 +1,4 @@
-Campus-Connect
+#Campus-Connect
 
 Campus-Connect is a modern web application that connects students, faculty, and campus services — a lightweight platform for announcements, events, student networking, and resource discovery.
 This repository contains a full-stack application separated into frontend/ and backend/ directories.
